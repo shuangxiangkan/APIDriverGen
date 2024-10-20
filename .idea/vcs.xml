@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Libraries/cJSON" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/libexpat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/libjpeg-turbo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/libtiff" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/miniz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/openssl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/yyjson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/zlib" vcs="Git" />
+  </component>
+</project>
